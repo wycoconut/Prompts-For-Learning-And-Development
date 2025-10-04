@@ -274,3 +274,5 @@ Tell me some benefits of using flashcards for memorizing [information].
 
 [Prompt Template for Assessments](Assessment-Prompts.md)
 
+[Prompt Template for Gamification](Gamification-Prompts.md)
+
