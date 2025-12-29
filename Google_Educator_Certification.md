@@ -55,7 +55,8 @@ Gemini Certified Educator<BR>
 - Useful Prompt Templates to build on top of, so that you don't start from scratch.
 - Websites that has resources on "How to Bring AI to your students" safety and structurally
 
-### [Resource] Teaching responsible use of AI
+### Teaching responsible use of AI
+- Great Resource for Educators to Use to Teach AI Usage for Students (includes Slides & Activities)
 - Guided examples of hallucination and bias
 - Use AI with Integrity
 - Very good for learners who will have their first time experience with AI
