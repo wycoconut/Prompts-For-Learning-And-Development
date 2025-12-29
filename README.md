@@ -276,3 +276,5 @@ Tell me some benefits of using flashcards for memorizing [information].
 
 [Prompt Template for Gamification](Gamification-Prompts.md)
 
+[Google Educator Certification (With Gemini AI)](Google_Educator_Certification.md)
+
