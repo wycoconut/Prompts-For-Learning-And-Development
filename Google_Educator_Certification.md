@@ -6,7 +6,7 @@ L1 - For educators who have learned and now demonstrated the fundamental skills 
 
 L2 - For educators who are super users and enthusiasts of Google’s tools in the classroom, this Level 2 certification validates advanced technology implementation skills.
 
-Gemini Certified Educator - 
+Gemini Certified Educator - A Google Certified Gemini Educator can articulate and demonstrate foundational knowledge of generative AI concepts and the core features and capabilities of Gemini within the educational context.
 
 ---
 
