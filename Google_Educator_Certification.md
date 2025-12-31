@@ -30,11 +30,13 @@ Gemini Certified Educator<BR>
 
 ### Google Certified Educator Level 1
 - Study Guide has very good walkthrough of Google Classroom and Tools How To.  This is essential basics before any AI stuff.
-- Be prepared to put aside 3 hours minimum for study & exam. 
+- Be prepared to put aside 3 hours minimum for study & exam.
+- Once you registered for the exam, you have 14 days to complete it.
 - You will be tested in 2 methods : MCQ (many are scenario based, not "what is this" questions) and Lab Exams. 
 - Also make sure internet connectivity is good as Lab Exams have a running timer. 
 - Turn off all ad blockers on your Browsers just in case the exam lab's remote browser doesn't work for you.
 - If the Lab got stuck with Service Errors, you just end the lab and start the lab again, it should work properly.
+- If you did not pass the first time, there is a 3 days cooldown period, after that you can retake the exam.
 
 ### Google Certified Educator Level 2
 - You will be tested in 2 methods : MCQ (many are scenario based, not "what is this" questions) and Lab Exams.
