@@ -280,3 +280,4 @@ Tell me some benefits of using flashcards for memorizing [information].
 
 [AI Literacy Guides](AI-Literacy-Guides.md)
 
+[The Richard Feynman Iterative Learning Framework](Prompt-Framework-Richard-Feyman.md)
