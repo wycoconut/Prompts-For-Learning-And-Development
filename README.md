@@ -1,3 +1,9 @@
+# Google Gems Directory For Education
+
+This is a growing collection of pre-made prompts ("Gems") for educators to use with Google Gemini.
+
+https://www.edugems.ai/home
+
 # Prompts Worth Sharing
 
 A list of useful prompts for various purposes.
